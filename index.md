@@ -13,7 +13,7 @@
 
 *   **[站點 01]**
 
-    <a href="https://cvssldjk.github.io">**進入 1 號發布站**</a>
+    <a href="https://cvssldjk.github.io">**進入 01 號發布站**</a>
 
     *狀態：穩定運行中*
 
