@@ -18,3 +18,8 @@
     *狀態：穩定運行中*
 
 ---
+
+
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "207b15a662794649a4d94ef2b06d0120"}'></script>
+<!-- End Cloudflare Web Analytics -->
