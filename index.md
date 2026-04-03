@@ -7,7 +7,7 @@
 ### 🟢 運行中站點 
 
 *   **[站點 01]**  
-    *網址：[https://github.io](https://github.io)*  
+    *<a href="https://cvssldjk.github.io" class="btn">進入 1 號發布站</a>*  
     *狀態：穩定運行中*
 
 ---
