@@ -20,6 +20,33 @@
 ---
 
 
+#### 🛡️ 身分驗證
+
+為自證身分，
+現提供本站及所有鏡像站通用 **GPG 數位簽章**。
+未來只有通過驗證的公告及鏡像站點才是真實有效的。
+
+*   **官方公鑰 ID**：`10803510` (Curve 25519)
+*   **驗證方式**：複製下方區塊進行匯入。
+
+<details>
+<summary><b>▶ 點擊展開 公開金鑰內容 (Public Key Block)</b></summary>
+
+```text
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+mDMEadAzaRYJKwYBBAHaRw8BAQdA4eKDHS2OBkxOL2zWJWbhSVX5VQU1GKmWUKmL
+FpvY/jy0MEpWIUdWRzBDMzF3QGl6b04gPG1laXR1ZGlzY2xvc3VyZUBhdG9taWNt
+YWlsLmlvPoiTBBMWCgA7FiEErzNXvA6FxfavhUJnBFNgKhCANRAFAmnQM2kCGwMF
+CwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQBFNgKhCANRAi4gD+OCn4g870
+kl7WUDnZEAxkRaRPNOyGIfZpGGVIGIjAbi0BAI6Jeb9AZRW8Y/eXpt6SKXRsEpbU
+TYN6mGOZuazC93oDuDgEadAzaRIKKwYBBAGXVQEFAQEHQPRiUCmyj+v3+vGq3DIK
+uEmHKCjh7GxB20iDLCOzQ8sgAwEIB4h4BBgWCgAgFiEErzNXvA6FxfavhUJnBFNg
+KhCANRAFAmnQM2kCGwwACgkQBFNgKhCANRCyWwD/fRhbI29pJmagw+o2wPJqEMQP
+HBCtQFEdy/LB6YCJC7sBALClKC7XpjopjOkY3+NMC7/XiDEw0NOictZP1WcQpRcL
+=XzCv
+-----END PGP PUBLIC KEY BLOCK-----
+
+
 <!-- Cloudflare Web Analytics -->
 <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "207b15a662794649a4d94ef2b06d0120"}'></script>
 <!-- End Cloudflare Web Analytics -->
