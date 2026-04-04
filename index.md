@@ -19,6 +19,9 @@
 
 ---
 
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "207b15a662794649a4d94ef2b06d0120"}'></script>
+<!-- End Cloudflare Web Analytics -->
 
 #### 🛡️ 身分驗證
 
@@ -45,9 +48,3 @@ KhCANRAFAmnQM2kCGwwACgkQBFNgKhCANRCyWwD/fRhbI29pJmagw+o2wPJqEMQP
 HBCtQFEdy/LB6YCJC7sBALClKC7XpjopjOkY3+NMC7/XiDEw0NOictZP1WcQpRcL
 =XzCv
 -----END PGP PUBLIC KEY BLOCK-----
-```
-</details>
-
-<!-- Cloudflare Web Analytics -->
-<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "207b15a662794649a4d94ef2b06d0120"}'></script>
-<!-- End Cloudflare Web Analytics -->
